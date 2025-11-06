@@ -2,6 +2,7 @@
 
 Zero-Day Ransomware Bypass Simulation
 Overview
+
 This repository provides a controlled research environment for studying how zero-day ransomware samples can evade traditional EDR (Endpoint Detection and Response) systems.
 The objective is to assist cybersecurity researchers, security engineers, and red team developers in understanding advanced evasion techniques so they can build stronger, AI-driven defense mechanisms.
 
