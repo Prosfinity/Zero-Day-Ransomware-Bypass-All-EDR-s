@@ -1,4 +1,4 @@
-# Zero-Day-Ransomware-Bypass-All-EDR-s
+# Zero Day-Ransomware Bypass All EDR's
 
 Zero-Day Ransomware Bypass Simulation
 Overview
